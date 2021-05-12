@@ -7,7 +7,7 @@ setuptools.setup(
     name="delphi", 
     version="0.0.1",
     author="Doug Creel",
-    author_email="dcreel@masten.aero",
+    author_email="mrsunshine001@gmail.com",
     description="Telemetry analysis toolkit",
     long_description=long_description,
     long_description_content_type="text/markdown",
